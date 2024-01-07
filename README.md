@@ -9,7 +9,7 @@ To begin, follow along with the [Local Development with the Firebase Emulator Su
 
 There are two folders in this repository:
 
-*  `codelab-initial-state` - the starting code for the codelab, which you will complete.
+*  `codelab-initial-state` - the starting code for the codelab, which you will complete. [UPDATED TO FINAL VERSION]
 *  `codelab-final-state` - the final code of the codelab, which you can use as a reference if you get stuck or want to skip ahead to the end result.
 
 
